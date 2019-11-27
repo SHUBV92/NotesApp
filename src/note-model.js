@@ -3,8 +3,12 @@
             this.text = texts;
     };
 
+    Notes.prototype.returnsNote = function() {
+        return this.text 
+    };
+
     exports.Notes = Notes;
+
+
 })(this);
 
-var note = new Notes("This is the Notes App")
-console.log(note.text)
