@@ -1,0 +1,20 @@
+{
+  "name": "notesApp",
+  "version": "1.0.0",
+  "description": "As a User I can",
+  "main": "assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHUBV92/NotesApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHUBV92/NotesApp/issues"
+  },
+  "homepage": "https://github.com/SHUBV92/NotesApp#readme"
+}

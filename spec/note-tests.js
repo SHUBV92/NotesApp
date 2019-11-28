@@ -4,7 +4,7 @@
         
         assert.isTrue(note.returnsNote() === note.text);
     }
-    testNotes()
+    // testNotes()
  
 }) (this);
 

@@ -14,7 +14,7 @@
         console.log(notelistview.show())
         assert.isTrue(notelistview.show() === "<ul><li><div>" + "Hi Shubs"  + "</div></li></ul>")
     }          
-        testNoteListView()
+        // testNoteListView()
 
 
 
@@ -36,7 +36,7 @@ function testNoteListView() {
     console.log(notelistview.show())
     assert.isTrue(notelistview.show() === "<ul><li><div>" + "Hi Shubs"  + "</div></li><li><div>" + "hi Beno"  + "</div></li></ul>")
 }          
-    testNoteListView()
+    // testNoteListView()
 }) (this);
 
 
